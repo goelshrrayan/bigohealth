@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "38109354020",
+    "firebase_url": "https://patient-cba81.firebaseio.com",
+    "project_id": "patient-cba81",
+    "storage_bucket": "patient-cba81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38109354020:android:ea154b224c52fe1f",
+        "android_client_info": {
+          "package_name": "com.bigohealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38109354020-uoueaocernl2emb0mbq5m70qcb38ncu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bigohealth",
+            "certificate_hash": "ec890d33113c5a152e7b2795ba3b39f77836d78e"
+          }
+        },
+        {
+          "client_id": "38109354020-48botrlie7fittimis79hq76vc3schj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjn04SoN-ZP6UIC2hdjBregY9RvmuTvF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38109354020-48botrlie7fittimis79hq76vc3schj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38109354020:android:01f5d048f29c0bed",
+        "android_client_info": {
+          "package_name": "in.donationclub.patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38109354020-gpt7r2nbdmr9b9mpgrp406otavgpmhdo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.donationclub.patient",
+            "certificate_hash": "a65522e96b3a3c8c1111c649a10c11a33a7b5680"
+          }
+        },
+        {
+          "client_id": "38109354020-48botrlie7fittimis79hq76vc3schj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjn04SoN-ZP6UIC2hdjBregY9RvmuTvF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38109354020-48botrlie7fittimis79hq76vc3schj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

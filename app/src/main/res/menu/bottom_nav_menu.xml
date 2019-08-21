@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_bar_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/nav_bar_dashboard"
+        android:icon="@drawable/ic_notification"
+        android:title="Notifications" />
+
+    <item
+        android:id="@+id/nav_bar_notifications"
+        android:icon="@drawable/ic_appointment"
+        android:title="Appointments" />
+
+    <item
+        android:id="@+id/nav_bar_reminder"
+        android:icon="@drawable/ic_reminder"
+        android:title="Reminders" />
+
+    <item
+        android:id="@+id/nav_bar_feed"
+        android:icon="@drawable/ic_article"
+        android:title="Feed" />
+
+</menu>
